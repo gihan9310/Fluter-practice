@@ -54,6 +54,15 @@ flutter:
     - assets/images/fruits/Mango.png
     - assets/images/fruits/Orange.png
     - assets/images/user.png
+
+    - assets/books/crushing-it.jpg
+    - assets/books/elon-musk-tesla-spacex.jpg
+    - assets/books/Empire-of-Pain.jpeg
+    - assets/books/How-to-Create-a-Mind.jpeg
+    - assets/books/Letting-Go.jpeg
+    - assets/books/ReWork.jpeg
+    - assets/books/The-Secret.jpg
+    - assets/books/Zero-to-one.jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
