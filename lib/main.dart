@@ -6,8 +6,10 @@ import 'package:seventh_app/custom_list_view.dart';
 import 'package:seventh_app/grid_view_demo/grid_view.dart';
 import 'package:seventh_app/grid_view_demo/grid_view_build.dart';
 import 'package:seventh_app/grid_view_demo/grid_view_ex.dart';
+import 'package:seventh_app/grid_view_demo/grid_view_example.dart';
 import 'package:seventh_app/grid_view_demo/next_example.dart';
 import 'package:seventh_app/home.dart';
+import 'package:seventh_app/last_stack/stack_sample.dart';
 import 'package:seventh_app/pages/next_image.dart';
 import 'package:seventh_app/stack_wiget/stack_wiged.dart';
 import 'package:seventh_app/tab_bar_exanple/tabBarExample.dart';
@@ -26,7 +28,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       debugShowCheckedModeBanner: false,
-      home: StackExample(),
+      home: StackExanple(),
     );
   }
 }

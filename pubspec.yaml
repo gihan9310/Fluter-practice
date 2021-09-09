@@ -63,6 +63,17 @@ flutter:
     - assets/books/ReWork.jpeg
     - assets/books/The-Secret.jpg
     - assets/books/Zero-to-one.jpg
+
+    - assets/images/Nokia.png
+    - assets/images/6s.png
+    - assets/images/nova.png
+    - assets/images/photo-1478144592103-25e218a04891.jpeg
+    - assets/images/photo-1520981825232-ece5fae45120.jpeg
+    - assets/images/samsung-m31.png
+    - assets/images/SS_S20_Ultra.png
+    - assets/images/Vivo.png
+    - assets/images/building.jpg
+
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
